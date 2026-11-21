@@ -1,0 +1,6 @@
+REQUIRED
+Pandas
+Numpy
+Matplotlib
+Kaggle 
+Jupyter notebook
